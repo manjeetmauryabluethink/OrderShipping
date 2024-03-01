@@ -1,0 +1,7 @@
+{
+    "sales_order_address": {
+        "column": {
+            "extra_desc": true
+        }
+    }
+}
